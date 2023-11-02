@@ -1,0 +1,20 @@
+{
+    "config": [
+        {
+            "dbUser": "root",
+            "dbPassword": "password",
+            "dbHost": "mysql",
+            "dbName": "APIExercise",
+            "dbPort": "3306",
+            "httpPort": "8080"
+        },
+        {
+            "dbUser": "root",
+            "dbPassword": "mylocaldbpassword",
+            "dbHost": "127.0.0.1",
+            "dbName": "APIExercise",
+            "dbPort": "3306",
+            "httpPort": "80"
+        }
+    ]
+}
